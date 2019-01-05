@@ -90,8 +90,8 @@ dare not speak its name | 不敢公开承认,只能遮遮掩掩的
 | moreover | 而且 | 表示递进关系
 | therefore | 因此 | 表因果关系
 | meanwhile | 与此同时 | 表并列关系
-| value | 作动词表重视
-| 
+| value | 作动词表重视 |
+|
 
 **Donate(捐赠)**
 
