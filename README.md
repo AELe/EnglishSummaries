@@ -1,4 +1,4 @@
-## Welcome to AIT Pages
+## Welcome to AIT Page
 
 You can find some summaries of English from my daily study.
 
