@@ -15,7 +15,7 @@
 | coping with | 积极应对
 | vulnerable to [ˈvʌlnərəbl] | 易受...的伤害
 | susceptible to [səˈseptəbl] | 易受...的损害
-| be expised ti | 遭受
+| be exposed to | 遭受
 | 
 
 * **Unknow words**
