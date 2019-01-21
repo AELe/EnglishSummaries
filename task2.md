@@ -16,7 +16,7 @@
 | vulnerable to [ˈvʌlnərəbl] | 易受...的伤害
 | susceptible to [səˈseptəbl] | 易受...的损害
 | be exposed to | 遭受
-| 
+
 
 * **Unknow words**
 
